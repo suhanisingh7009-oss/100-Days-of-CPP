@@ -4,7 +4,6 @@ Welcome to my coding journey! I am a 12th-grade student preparing for a career i
 Project: Profile Summary Generator.
 Learned: Variables (string, int, float), Input/Output (cin, cout), and basic error fixing.
 Tool: Coding on mobile using Cxxdroid.
-
-
-# 100-Days-of-CPP
-"Learning C++ from basics to AI-ML concepts"
+✅ Day 2 Progress:
+Built an Admission Predictor using if-else logic.
+Successfully handled compiler errors related to braces {}.
