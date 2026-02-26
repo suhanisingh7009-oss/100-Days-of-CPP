@@ -7,3 +7,6 @@ Tool: Coding on mobile using Cxxdroid.
 ✅ Day 2 Progress:
 Built an Admission Predictor using if-else logic.
 Successfully handled compiler errors related to braces {}.
+✅ Day 3 Progress:
+Project: Continuous Admission Portal.
+Concepts: Learned while loops to repeat tasks and user-controlled exit logic.
