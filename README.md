@@ -10,3 +10,6 @@ Successfully handled compiler errors related to braces {}.
 ✅ Day 3 Progress:
 Project: Continuous Admission Portal.
 Concepts: Learned while loops to repeat tasks and user-controlled exit logic.
+✅ Day 4 Progress:
+Created a Function-based admission portal.
+Implemented do-while loop for a better user experience.
