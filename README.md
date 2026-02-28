@@ -13,3 +13,7 @@ Concepts: Learned while loops to repeat tasks and user-controlled exit logic.
 ✅ Day 4 Progress:
 Created a Function-based admission portal.
 Implemented do-while loop for a better user experience.
+✅ Day 5 Progress:
+Project: Batch Performance Analyzer.
+Skills: Arrays, For-loops, and Finding Maximum value logic.
+Update: Added a "Topper Finder" feature to identify the highest score in the batch.
