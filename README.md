@@ -17,3 +17,7 @@ Implemented do-while loop for a better user experience.
 Project: Batch Performance Analyzer.
 Skills: Arrays, For-loops, and Finding Maximum value logic.
 Update: Added a "Topper Finder" feature to identify the highest score in the batch.
+✅ Day 6 Progress:
+Project: Student Record Finder (Searching Tool).
+Concepts: Linear Search Algorithm, break statement, and Array indexing.
+Goal: Learned how to find specific data in a large dataset.
