@@ -21,3 +21,7 @@ Update: Added a "Topper Finder" feature to identify the highest score in the bat
 Project: Student Record Finder (Searching Tool).
 Concepts: Linear Search Algorithm, break statement, and Array indexing.
 Goal: Learned how to find specific data in a large dataset.
+✅ Day 7: Sorting Algorithms
+Project: Automatic Student Ranker.
+Concept: Selection Sort & Nested Loops.
+Logic: Learned how to swap values using a temp variable to arrange data in ascending order.
