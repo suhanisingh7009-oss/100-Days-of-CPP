@@ -25,3 +25,7 @@ Goal: Learned how to find specific data in a large dataset.
 Project: Automatic Student Ranker.
 Concept: Selection Sort & Nested Loops.
 Logic: Learned how to swap values using a temp variable to arrange data in ascending order.
+✅ Day 8: 2D Arrays (Matrices)
+Concept: Seekha ki rows aur columns mein data kaise store hota hai.
+Project: Ek "Result Matrix" banayi jo multiple students ke marks handle karti hai.
+Logic: Nested Loops ka use karke table format mein output dikhaya.
