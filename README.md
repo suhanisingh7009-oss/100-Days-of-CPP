@@ -29,3 +29,7 @@ Logic: Learned how to swap values using a temp variable to arrange data in ascen
 Concept: Seekha ki rows aur columns mein data kaise store hota hai.
 Project: Ek "Result Matrix" banayi jo multiple students ke marks handle karti hai.
 Logic: Nested Loops ka use karke table format mein output dikhaya.
+✅ Day 9: Mastering Strings
+Topic: Text handling and input methods.
+New Learning: getline(cin, var) vs cin >> var.
+Project: Smart Message Generator jo user ka full name aur goal handle karta hai.
