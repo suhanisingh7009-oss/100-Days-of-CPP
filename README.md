@@ -33,3 +33,9 @@ Logic: Nested Loops ka use karke table format mein output dikhaya.
 Topic: Text handling and input methods.
 New Learning: getline(cin, var) vs cin >> var.
 Project: Smart Message Generator jo user ka full name aur goal handle karta hai.
+✅ Day 10: The 10% Milestone!
+Focus: String Manipulation & Functions.
+New Functions: >     * .length(): String ki size nikalne ke liye.
+.at(index): Specific position ka character access karne ke liye.
+.push_back(): String ke peeche naya character jodne ke liye.
+Project: Built a Username Security Tool that validates length and secures the name.
