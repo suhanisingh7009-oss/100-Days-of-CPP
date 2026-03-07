@@ -39,3 +39,7 @@ New Functions: >     * .length(): String ki size nikalne ke liye.
 .at(index): Specific position ka character access karne ke liye.
 .push_back(): String ke peeche naya character jodne ke liye.
 Project: Built a Username Security Tool that validates length and secures the name.
+✅ Day 11: Switch Case Logic
+Topic: Advanced Control Flow (Switch-Case).
+Project: Basic Calculator with User Menu.
+Key Learning: Learned the importance of the break statement to prevent "fall-through" errors.
