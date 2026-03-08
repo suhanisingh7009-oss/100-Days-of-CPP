@@ -43,3 +43,7 @@ Project: Built a Username Security Tool that validates length and secures the na
 Topic: Advanced Control Flow (Switch-Case).
 Project: Basic Calculator with User Menu.
 Key Learning: Learned the importance of the break statement to prevent "fall-through" errors.
+✅ Day 12: The Power of Loops
+Topic: Introduction to while loop.
+Project: Countdown Timer (User-defined start).
+Key Insight: Understood how n-- prevents an infinite loop and stops the program at a specific condition
