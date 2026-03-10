@@ -47,3 +47,7 @@ Key Learning: Learned the importance of the break statement to prevent "fall-thr
 Topic: Introduction to while loop.
 Project: Countdown Timer (User-defined start).
 Key Insight: Understood how n-- prevents an infinite loop and stops the program at a specific condition
+✅ Day 13: Mastering the For Loop
+Topic: For Loop Syntax and Logic.
+Project: Multiplication Table Generator.
+Learning: Understood the three-part structure (initialization, condition, update) of a for loop
