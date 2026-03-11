@@ -51,3 +51,7 @@ Key Insight: Understood how n-- prevents an infinite loop and stops the program 
 Topic: For Loop Syntax and Logic.
 Project: Multiplication Table Generator.
 Learning: Understood the three-part structure (initialization, condition, update) of a for loop
+✅ Day 14: Logic of Nested Loops
+Topic: Nested for loops.
+Project: Star Triangle Pattern (Right-angled).
+Key Learning: Samjha ki kaise inner loop j <= i condition ka use karke har line par stars ki sankhya badhata hai. Debugging seekhi (brackets aur conditions ko fix karna).
