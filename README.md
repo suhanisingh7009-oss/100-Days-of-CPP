@@ -55,3 +55,8 @@ Learning: Understood the three-part structure (initialization, condition, update
 Topic: Nested for loops.
 Project: Star Triangle Pattern (Right-angled).
 Key Learning: Samjha ki kaise inner loop j <= i condition ka use karke har line par stars ki sankhya badhata hai. Debugging seekhi (brackets aur conditions ko fix karna).
+✅ Day 15: Playing with Numbers in Loops
+Topic: Accessing loop variables (i and j) inside nested loops.
+Project: Number Triangle (1, 12, 123...).
+Key Learning: Samjha ki j ko print karne se counting badhti hai, aur i ko print karne se row-wise same numbers milte hain.
+Progress: 15/100 Days Completed! 🏆
