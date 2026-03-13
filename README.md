@@ -60,3 +60,8 @@ Topic: Accessing loop variables (i and j) inside nested loops.
 Project: Number Triangle (1, 12, 123...).
 Key Learning: Samjha ki j ko print karne se counting badhti hai, aur i ko print karne se row-wise same numbers milte hain.
 Progress: 15/100 Days Completed! 🏆
+✅ Day 16: Patterns in Reverse
+Topic: Inverted Nested Loops.
+Project: Inverted Star Triangle.
+Key Learning: Samjha ki i = rows; i >= 1; i-- kaise pehli line mein zyada stars aur aakhri line mein kam stars print karta hai.
+Debugging: Learned that C++ only supports -- for decrement, not ---.
