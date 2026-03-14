@@ -65,3 +65,8 @@ Topic: Inverted Nested Loops.
 Project: Inverted Star Triangle.
 Key Learning: Samjha ki i = rows; i >= 1; i-- kaise pehli line mein zyada stars aur aakhri line mein kam stars print karta hai.
 Debugging: Learned that C++ only supports -- for decrement, not ---.
+✅ Day 17: Inverted Numbers Logic
+Topic: Reverse Nested Loops with Numeric Output.
+Project: Decreasing Number Pyramid (e.g., 123, 12, 1).
+Key Learning: Sikha ki kaise outer loop ki decreasing value (i--) inner loop ki limit ko control karti hai, jisse pattern inverted ho jata hai.
+Self-Challenge: Experimented with printing i instead of j to understand row-wise number stability.
