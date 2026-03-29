@@ -70,3 +70,8 @@ Topic: Reverse Nested Loops with Numeric Output.
 Project: Decreasing Number Pyramid (e.g., 123, 12, 1).
 Key Learning: Sikha ki kaise outer loop ki decreasing value (i--) inner loop ki limit ko control karti hai, jisse pattern inverted ho jata hai.
 Self-Challenge: Experimented with printing i instead of j to understand row-wise number stability.
+✅ Day 18: Square Grids & Logical Debugging
+Topic: Nested loops for N \times N matrices.
+Project: Number Grid Generator.
+Key Learning: Understood that setting the condition to j <= size (instead of j <= i) creates a perfect square pattern. Also gained hands-on experience in debugging by fixing a "blank output" error.
+DSA Connection: Cleared the foundational logic for Matrix Traversal, which is essential for solving 2D array problems in Data Structures and Algorithms.
