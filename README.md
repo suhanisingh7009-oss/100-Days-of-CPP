@@ -80,3 +80,8 @@ Topic: Conditional Logic inside Nested Loops.
 Project: Hollow Square Generator.
 Key Learning: Mastered the use of the OR (||) operator to define boundaries. Fixed a major alignment issue by correctly placing the endl statement inside the outer loop but outside the inner loop.
 Debugging Experience: Successfully transitioned from a linear output to a structured 2-D shape.
+✅ Day 20 Milestone: 20% Complete!
+Concept: Palindromic Numbers and Triple Nested Loops.
+Achievement: Successfully built a center-aligned number pyramid.
+Key Insight: Learned how to balance leading spaces with inline character spacing to maintain 2D shape symmetry.
+Status: Ready to transition from Patterns to Data Structures (Arrays).
