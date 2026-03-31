@@ -75,3 +75,8 @@ Topic: Nested loops for N \times N matrices.
 Project: Number Grid Generator.
 Key Learning: Understood that setting the condition to j <= size (instead of j <= i) creates a perfect square pattern. Also gained hands-on experience in debugging by fixing a "blank output" error.
 DSA Connection: Cleared the foundational logic for Matrix Traversal, which is essential for solving 2D array problems in Data Structures and Algorithms.
+✅ Day 19: The Hollow Square Challenge
+Topic: Conditional Logic inside Nested Loops.
+Project: Hollow Square Generator.
+Key Learning: Mastered the use of the OR (||) operator to define boundaries. Fixed a major alignment issue by correctly placing the endl statement inside the outer loop but outside the inner loop.
+Debugging Experience: Successfully transitioned from a linear output to a structured 2-D shape.
