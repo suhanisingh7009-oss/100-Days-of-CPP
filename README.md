@@ -85,3 +85,8 @@ Concept: Palindromic Numbers and Triple Nested Loops.
 Achievement: Successfully built a center-aligned number pyramid.
 Key Insight: Learned how to balance leading spaces with inline character spacing to maintain 2D shape symmetry.
 Status: Ready to transition from Patterns to Data Structures (Arrays).
+✅ Day 21: Entering the World of DSA
+Topic: Introduction to 1D Arrays.
+Project: Marks Manager (Data Storage).
+Key Learning: Arrays are contiguous memory locations. For an array of size n, the index ranges from 0 to n-1.
+DSA Milestone: Successfully moved from printing patterns to managing structured data.
