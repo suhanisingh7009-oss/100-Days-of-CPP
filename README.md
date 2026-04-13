@@ -90,3 +90,9 @@ Topic: Introduction to 1D Arrays.
 Project: Marks Manager (Data Storage).
 Key Learning: Arrays are contiguous memory locations. For an array of size n, the index ranges from 0 to n-1.
 DSA Milestone: Successfully moved from printing patterns to managing structured data.
+📈 Day 22: Array Operations
+Topic: Mathematical operations on Arrays.
+Project: Student Result Generator.
+Key Learning: >   1. Type Casting: (float)sum / n use karke decimal values nikalna seekha.
+2. Accumulator Pattern: sum = sum + marks[i] ka use karke total nikalna.
+Next Goal: Finding the maximum and minimum number in an array.
