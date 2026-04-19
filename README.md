@@ -96,3 +96,7 @@ Project: Student Result Generator.
 Key Learning: >   1. Type Casting: (float)sum / n use karke decimal values nikalna seekha.
 2. Accumulator Pattern: sum = sum + marks[i] ka use karke total nikalna.
 Next Goal: Finding the maximum and minimum number in an array.
+🏆 Day 23: Array Searching Logic
+Concept: Finding Extreme Values (Maximum & Minimum).
+Key Logic: Initializing a variable with the first element and comparing it with the rest using a loop.
+Learning: Understood how to update variables dynamically inside an if condition.
